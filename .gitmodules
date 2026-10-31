@@ -1,0 +1,27 @@
+[submodule "i-have-adhd"]
+	path = i-have-adhd
+	url = https://github.com/ayghri/i-have-adhd.git
+[submodule "claude-adhd-skills"]
+	path = claude-adhd-skills
+	url = https://github.com/ravila4/claude-adhd-skills.git
+[submodule "audhd-executive-function"]
+	path = audhd-executive-function
+	url = https://github.com/assafkip/audhd-executive-function.git
+[submodule "adhd-copilot"]
+	path = adhd-copilot
+	url = https://github.com/dsx0511/adhd-copilot.git
+[submodule "dsh-adhd-copilot"]
+	path = dsh-adhd-copilot
+	url = https://github.com/zimai233/dsh-adhd-copilot.git
+[submodule "adhd-skills"]
+	path = adhd-skills
+	url = https://github.com/RobotDisco/adhd-skills.git
+[submodule "adhd-claude-skill"]
+	path = adhd-claude-skill
+	url = https://github.com/Leonw98/adhd-claude-skill.git
+[submodule "adhd-study-coach"]
+	path = adhd-study-coach
+	url = https://github.com/itsAalaa7/adhd-study-coach.git
+[submodule "nd-skills"]
+	path = nd-skills
+	url = https://github.com/jpoindexter/nd-skills.git
