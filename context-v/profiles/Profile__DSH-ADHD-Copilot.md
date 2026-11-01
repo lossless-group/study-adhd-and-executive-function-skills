@@ -31,6 +31,7 @@ summary: >-
   code, or when you need the study's only non-Claude-harness packaging data
   point.
 publish: true
+type: Profiles
 ---
 
 # DSH ADHD Copilot — Profile

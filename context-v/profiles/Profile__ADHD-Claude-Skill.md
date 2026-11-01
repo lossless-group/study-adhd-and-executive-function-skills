@@ -29,6 +29,7 @@ summary: >-
   it, or how to lay out cross-session state as plain files with no runtime,
   hook, or database.
 publish: true
+type: Profiles
 ---
 
 # ADHD Claude Skill — Profile

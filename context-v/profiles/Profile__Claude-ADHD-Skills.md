@@ -30,6 +30,7 @@ summary: >-
   time-awareness or reminder hooks, choosing a cross-session state store, or
   deciding whether ADHD support belongs in a skill, a hook, or CLAUDE.md.
 publish: true
+type: Profiles
 ---
 
 # Claude ADHD Skills — Profile

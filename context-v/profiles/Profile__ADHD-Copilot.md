@@ -28,6 +28,7 @@ summary: >-
   when deciding how to split coaching from memory, how to gate profile writes on consent, or how to
   set a divergence threshold for research sessions.
 publish: true
+type: Profiles
 ---
 
 # ADHD Copilot — Profile

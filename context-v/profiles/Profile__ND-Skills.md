@@ -33,6 +33,7 @@ summary: >-
   executive-function support into skills, how to keep many skills cheaply
   always-on, or how to govern an agent that can speak unprompted.
 publish: true
+type: Profiles
 ---
 
 # ND Skills — Profile

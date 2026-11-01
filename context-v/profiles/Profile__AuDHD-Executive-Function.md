@@ -31,6 +31,7 @@ summary: >-
   when deciding how far an EF skill should go toward doing the work for the
   user, or when you need a concrete shame-free vocabulary list.
 publish: true
+type: Profiles
 ---
 
 # AuDHD Executive Function — Profile

@@ -28,6 +28,7 @@ summary: >-
   between agent-writes and agent-asks state models, or when comparing how the
   study's entries keep coaching from turning into nagging.
 publish: true
+type: Profiles
 ---
 
 # ADHD Skills — Profile

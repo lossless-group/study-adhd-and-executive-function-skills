@@ -27,6 +27,7 @@ summary: >-
   skill that must keep state across chats without files, when deciding how to cite research inside
   a prompt honestly, or when an agent needs to auto-start a behavior without nagging.
 publish: true
+type: Profiles
 ---
 
 # ADHD Study Coach — Profile

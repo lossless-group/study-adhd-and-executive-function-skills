@@ -29,6 +29,7 @@ summary: >-
   output-format problem, when designing a style skill that must persist across
   turns and topic changes, or when packaging one skill for many harnesses.
 publish: true
+type: Profiles
 ---
 
 # I Have ADHD — Profile
