@@ -8,7 +8,12 @@ maintainer: Gaelan D'costa (`RobotDisco`), solo personal repo
 study: studies/adhd-and-executive-function-skills
 profile_path: studies/adhd-and-executive-function-skills/adhd-skills
 profile_kind: ritual-review skills over an external org-mode system
+title: "ADHD Skills — Profile"
+status: Reference
+authors:
+  - Michael Staton
 date_created: 2026-10-29
+date_modified: 2026-10-31
 site_uuid: 80995a4d-2ac2-40aa-ae75-2d6e684a4711
 hex_code: pwfzpn
 date_authored_initial_draft: 2026-10-29

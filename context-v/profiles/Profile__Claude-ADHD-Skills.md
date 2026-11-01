@@ -8,7 +8,12 @@ maintainer: Ricardo Avila (`ravila4`, sole committer at the pin)
 study: studies/adhd-and-executive-function-skills
 profile_path: studies/adhd-and-executive-function-skills/claude-adhd-skills
 profile_kind: Claude Code hooks + SQLite nudges + Obsidian journaling
+title: "Claude ADHD Skills — Profile"
+status: Reference
+authors:
+  - Michael Staton
 date_created: 2026-10-29
+date_modified: 2026-10-31
 site_uuid: 16dba865-80cd-4ee6-98a3-da9f4e8d73d6
 hex_code: tby3zs
 date_authored_initial_draft: 2026-10-29

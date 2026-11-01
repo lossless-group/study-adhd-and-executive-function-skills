@@ -8,7 +8,12 @@ maintainer: Shuxiao Ding (github.com/dsx0511); single "Initial commit" 1f428ec, 
 study: studies/adhd-and-executive-function-skills
 profile_path: studies/adhd-and-executive-function-skills/adhd-copilot
 profile_kind: co-triggered coaching skill pair plus consented adaptive user profile
+title: "ADHD Copilot — Profile"
+status: Reference
+authors:
+  - Michael Staton
 date_created: 2026-10-29
+date_modified: 2026-10-31
 site_uuid: 05a00357-9d4f-493e-98ab-43f21edcb28e
 hex_code: mu8sox
 date_authored_initial_draft: 2026-10-29
